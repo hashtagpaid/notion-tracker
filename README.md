@@ -1,6 +1,6 @@
 # Notion Tracker
 
-a Google Analyitcs container to track page visits in Notions...
+a Google Analyitcs container to track page visits in Notion...
 
 ## How to use
 
